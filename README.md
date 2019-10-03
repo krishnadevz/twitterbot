@@ -18,8 +18,8 @@
 <img src="https://github.com/krishnakakade1999/twitterbot/blob/master/twitterbotsanps/Annotation%202019-10-03%20065748.png" alt="1">
 
 <b>Notes</b>
-<b>why the need of last tweet id becaue avoiding the overriding things in our bot for that particular tweet id our bot reply only once and another reply for another tweet id </b>
-#Python time sleep function is used to add delay in the execution of a program. We can use python sleep function to halt the execution of the program for given time in seconds.
+<b>why the need of last tweet id becaue avoiding the overriding things in our bot for that particular tweet id our bot reply only once and another reply for another tweet id </b><br>
+# Python time sleep function is used to add delay in the execution of a program. We can use python sleep function to halt the execution of the program for given time in seconds.
 # Thank you :).
 <br>
 
