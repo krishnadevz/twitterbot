@@ -4,6 +4,11 @@ CONSUMER_KEY="tkBz3ewGYoHivWKkyYcRfqk9z"
 CONSUMER_SECRET="Dkwju8fPTU3LA0qt8zjCadmCPLL43DEpsQW1TglsddFXlgVIS3GH"
 ACCESS_KEY="902905259231633408-1ETuKEku0dWcktANdTe7okfPzqP3Y3T"
 ACCESS_SECRET="PVh7E3w3lF5jU7AU08OIAr2d69zjzRsBKcNb2LzBoNRZR"
+#for doing authentication
+auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
+api = tweepy.API(auth)
+api #It shows <tweepy.api.API at 0x6f4a2b0>
 #for checking timeline tweets
 api.mentions_timeline()
 mentions=api.mentions_timeline() #stored the mentions tweets ovehere
