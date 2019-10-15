@@ -22,8 +22,8 @@
 # Python time sleep function is used to add delay in the execution of a program. We can use python sleep function to halt the execution of the program for given time in seconds.
 # Thank you :).
 <br>
-# This python script only works when I run from my local system this is not deployed on live server if deployed then twitter limit of retweet and messages is exceeded that's why only local script files can works when I run from my local system you guys can done that.
+<b>This python script only works when I run from my local system this is not deployed on live server if deployed then twitter limit of retweet and messages is exceeded that's why only local script files can works when I run from my local system you guys can done that.</b>
 <br>
-## Author
+<b> Author</b>
 
 * **Krishna kakade**  - [krishnakakade1999](https://github.com/krishnakakade1999)
